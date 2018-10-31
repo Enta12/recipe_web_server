@@ -1,0 +1,11 @@
+verifier les erreur sur l'inscription en php
+verifier les erreur sur le login ou l'incription en js
+REFAIRE les liens en js
+enlever les doubles erreurs
+rajouter l'option resté connecté
+rajouter les fonctions de sécurité + machin pour eviter les robots
+rajouté les tables pour le mj (voir avec saladeuh)
+faire que le menu nous suive
+rendre le site responsing
+empéché le bougement des element du menu lorsque qu'on se log (flex 0 0 50% pour les items avec des division par 12)
+txt-overflow
